@@ -7,7 +7,7 @@ This project analyzes healthcare-related data breaches in the U.S. from 2023 to 
 ## Key Findings
 This analysis of U.S. Healthcare data breaches from 2023 to 2025 uncovers several critical trends shaping the cybersecurity landscape in the healthcare sector. 
 - ### Massive Surge in Breaches:
-
+Reported breaches nearly quadrupled between 2023 and 2024, rising from 100 to 396 incidents. Despite a partial decline in 2025, breach levels remained nearly triple those of 2023. 
 - ### Dominance of Hacking Incidents:
 
 - ### Disproportionate Impact:
