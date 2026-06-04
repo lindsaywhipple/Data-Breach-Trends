@@ -9,15 +9,15 @@ This analysis of U.S. Healthcare data breaches from 2023 to 2025 uncovers severa
 - ### Massive Surge in Breaches:
 Reported breaches nearly quadrupled between 2023 and 2024, rising from 100 to 396 incidents. Despite a partial decline in 2025, breach levels remained nearly triple those of 2023. 
 - ### Dominance of Hacking Incidents:
-
+Hacking/IT incidents were the most common and fastest-growing breach type, with statistically significant increases year after year. Unauthorized Access/Disclosure followed a similar upward trend. 
 - ### Disproportionate Impact:
-
+Just ten breaches account for nearly 77% of all individuals affected, with Change Healthcare alone impacting an estimated 190 million people. 
 - ### Geographic Disparities:
-
+Texas, New York, and California lead in breach count, while Minnesota's relatively low breach volume masks an outsized impact, driven by a small number of catastrophic incidents. 
 - ### Consistent Entity Vulnerability:
-
+Healthcare providers accounted for the majority of breaches across all three years, with their proportional share remaining statistically stable over time. 
 - ### Systemic Infrastructure Risk:
-
+All ten of the most harmful breaches targeted Network Servers, underscoring a critical and recurring vulnerability in healthcare IT infrastructure. 
 
 These insights paint a vivid picture of an evolving threat landscape where breach frequency and impact are increasingly driven by sophisticated, infrastructure-targeted attacks.  
 
@@ -49,7 +49,7 @@ Looking at specific breach types,
     - Each pairwise comparison yielded statistically significatn results (all p <0.01) over the years.
     - Improper Disposal, Theft, and Loss did not show statistically significant changes across years (all p > 0.01), suggesting these breaches may be less volatile or requently reported.
 
-These findings suggest that hacking and unauthorized access are becoming increasingly dominant and statistically distinguishable from other breach types within the healthcare spector. 
+These findings suggest that hacking and unauthorized access are becoming increasingly dominant and statistically distinguishable from other breach types within the healthcare sector. 
 
 
 ## 2. Total Affected per Year 
@@ -64,7 +64,7 @@ These findings suggest that hacking and unauthorized access are becoming increas
 
 ### Total Affected per Year Analysis
 
-Within these three years, the total number of individuals affected by healthcare-related data breaches varied significantly. 2024 saw a large spike in the total number of indivduals affected, most likely driven by some extremely large data breaches including, Change Healthcare, Inc. (190 million) anf Kaiser Foundation Health Plan, Inc. (13.4 million). There appears to be high skewness in the data caused by massive outliers which is shown by the median in contrast to the mean. 
+Within these three years, the total number of individuals affected by healthcare-related data breaches varied significantly. 2024 saw a large spike in the total number of indivduals affected, most likely driven by some extremely large data breaches including, Change Healthcare, Inc. (190 million) and Kaiser Foundation Health Plan, Inc. (13.4 million). There appears to be high skewness in the data caused by massive outliers which is shown by the median in contrast to the mean. 
 
 The top one percent of data breaches alone account for a majority of all indviduals affected in this time span. These breaches include Change Healthcare, Inc. (2024, 190 million), Kaiser Foundation (2024, 13.4 million), HCA Healthcare (2023, 11.2 million), Ascension Health (2024, 5.4 million), and Yale New Haven (2025, 5.5 million).
 
@@ -116,4 +116,10 @@ Here, I am highlighting the most impactful breaches by number of indviduals affe
 
 ## Conclusion
 
+This analysis of U.S. healthcare data breaches from 2022 to 2025 reveals a sector under grtowing and increasingly sophisticated cyber threa. Breach volume surged dramatically over this period, and while 2025 saw a partial decline, the overall trajectory remains far above baseline. The data makes clear that this is not a problem of isolated incidents, rather a systemic one. 
 
+Hacking and unauthorized access have emerged as the dominant breach mechanisms, consistently outpacing other types and growing at a statistically significatn rate. More striking is where these attacks are landing: network servers were the target in every single one of the ten most harmful breaches, pointing to a critical and underaddressed vulnerability in healthcare IT infrastructure. The outsized impact of a small number of mega-breaches (particularlly Change Healthcare's 190 million affected individuals) further illustrates how a single infrastructure failure can have consequences at a national scale. 
+
+Geographically, breach counts do not reliably predict severity, suggesting that the most dangerous breaches are not simply a function of volume, but of the specific systems and organizations being targeted. Healthcare providers remain the most consistently affected entity type, a pattern that has held steady across all three years of this analysis. 
+
+Taken together, these findings point to an urgent need for modernized server security practices, stronger infrastructure safeguards, and greater investment in breach prevention at an organizational level, particularly among large healthcare providers and their business associates. 
