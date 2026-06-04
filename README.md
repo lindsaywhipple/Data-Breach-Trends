@@ -1,11 +1,13 @@
 # U.S. Healthcare Data Breach Analysis (2023-2025)
 
 ## Project Overview
-This project analyzes healthcare-related data breaches in the U.S. from 2023 to 2025 using Python for statistical analysis and Tableau for interactive visualization.
+Healthcare data breaches have become one of the most consequential cybersecurity challenges facing the United States. As patient records, billing systems, and clinical infrastructure become increasingly digitzed and interconnected, the healthcare sector has emerged as a prime target for sophisticated cyberattacks, with breaches affecting millions of individuals and exposing deep vulnerabilities in how sensitive data is protected. 
 
+This project analyzes healthcare-related data breaches reported to the U.S. Department of Health and Human Services (HHS) between the years 2023 and 2025. Using Python for statistical analysis and Tableau for interactive visualization, it explores trends in breach frequency, severity, geographic distribution, and entity vulnerability, with the goal of identifiying systemic patterns in how and where breaches are occurring across the U.S. healthcare sector. 
 
 ## Key Findings
-This analysis of U.S. Healthcare data breaches from 2023 to 2025 uncovers several critical trends shaping the cybersecurity landscape in the healthcare sector. 
+This analysis of U.S. Healthcare data breaches from 2023 to 2025 uncovers several critical trends shaping the cybersecurity landscape in the healthcare sector. These insights paint a vivid picture of an evolving threat landscape where breach frequency and impact are increasingly driven by sophisticated, infrastructure-targeted attacks.  
+
 - ### Massive Surge in Breaches:
 Reported breaches nearly quadrupled between 2023 and 2024, rising from 100 to 396 incidents. Despite a partial decline in 2025, breach levels remained nearly triple those of 2023. 
 - ### Dominance of Hacking Incidents:
@@ -19,7 +21,6 @@ Healthcare providers accounted for the majority of breaches across all three yea
 - ### Systemic Infrastructure Risk:
 All ten of the most harmful breaches targeted Network Servers, underscoring a critical and recurring vulnerability in healthcare IT infrastructure. 
 
-These insights paint a vivid picture of an evolving threat landscape where breach frequency and impact are increasingly driven by sophisticated, infrastructure-targeted attacks.  
 
 ## Tableau Dashboard 
 
