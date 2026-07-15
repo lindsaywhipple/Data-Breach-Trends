@@ -38,11 +38,11 @@ All ten of the most harmful breaches targeted Network Servers, underscoring a cr
 
 #### Entity Type Breakdown by Year Python 
 
-![BreachCountbyYear](images/BreachCountbyYear.png)
+
 
 #### Entity Type Breakdown by Year Tableau
 
-![BreachesbyType](images/BreachesbyType.png)
+
 
 #### Entity Type Breakdown by Year Analysis
 An examination of breach distribution across entity types from 2010 to 2025 revealed that Healthcare Providers have consistently accounted for the majority of reported breaches throughout the entire period, ranging frm a low of 63.3% in 2014 to a high of 79.6% in 2017. Business Associates show the most fluctuation of any entity type, peaking at 23.8% in 2014 and 23.3% in 2023 before declining to 15.1% in 2025. Health Plans and Healthcare Clearinghouses remain consistently low across all years. 
@@ -54,11 +54,11 @@ A chi-square test of independence revealed a statistically significant change in
 
 #### Total Affected per Year Python
 
-![TotalAffectedperYear](images/TotalAffectedperYear.png)
+
 
 #### Total Affected per Year Tableau
 
-![TotalAffected](images/TotalAffected.png)
+
 
 #### Total Affected per Year Analysis
 
@@ -73,12 +73,12 @@ It is worth noting that the sharp decline in 2024 and 2025 does not necessarily 
 
 #### Breach Type Evolution Python
 
-![MapBreachesvsAffected](images/MapBreachesvsAffected.png)
+
 
 
 #### Breach Type Evolution Tableau
 
-![Map](images/Map.png)
+
 
 #### Breach Type Evolution Analysis 
 
@@ -90,11 +90,11 @@ Hacking/IT Incidents show the most dramatic and consistent upward trend of any b
 
 #### Geographic Analysis Python
 
-![TypeBreakdown](images/TypeBreakdown.png)
+
 
 #### Geographic Analysis Tableau
 
-![BreachedEntityType](images/BreachedEntityType.png)
+
 
 #### Geographic Analysis 
 
@@ -104,11 +104,11 @@ California, Texas, and New York report the highest raw breach counts at 698, 564
 
 #### Top 10 Harmful Breaches Python
 
-![Top10Harmful](images/Top10Harmful.png)
+
 
 #### Top 10 Harmful Breaches Tableau
 
-![Top10](images/Top10.png)
+
 
 #### Top 10 Harmful Breaches Analysis 
 
